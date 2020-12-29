@@ -1,0 +1,83 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* payroll_tier_validation
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 13.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-12-29 13:50+0000\n"
+"PO-Revision-Date: 2020-12-29 13:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_form
+msgid ""
+"<i class=\"fa fa-info-circle\"/>This payslip needs to be\n"
+"                        validated."
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_form
+msgid "<i class=\"fa fa-thumbs-down\"/> Operation has been <b>rejected</b>."
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_form
+msgid "<i class=\"fa fa-thumbs-up\"/> Operation has been <b>validated</b>!"
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_search
+msgid "My Payslips to review"
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_search
+msgid "Needs my Review"
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model:ir.model,name:payroll_tier_validation.model_hr_payslip
+msgid "Pay Slip"
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_search
+msgid "Payslips validated and ready to be confirmed"
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_form
+msgid "Reject"
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_form
+msgid "Request Validation"
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_form
+msgid "Restart Validation"
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model:ir.model,name:payroll_tier_validation.model_tier_definition
+msgid "Tier Definition"
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_form
+msgid "Validate"
+msgstr ""
+
+#. module: payroll_tier_validation
+#: model_terms:ir.ui.view,arch_db:payroll_tier_validation.hr_payslip_view_search
+msgid "Validated"
+msgstr ""
