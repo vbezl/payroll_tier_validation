@@ -13,5 +13,6 @@ class HrPayslip(models.Model):
     @api.model
     def _get_under_validation_exceptions(self):
         res = super(HrPayslip, self)._get_under_validation_exceptions()
-        res.append("line_ids", "number")
+        res.append("line_ids")
+        res.append("number")
         return res
